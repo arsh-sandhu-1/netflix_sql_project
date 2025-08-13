@@ -175,8 +175,10 @@ WHERE country ILIKE '%india%'
 GROUP BY 1 
 ORDER BY 2 DESC 
 LIMIT 5 ;
-```
-# 15. Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'. Count how many items fall into each category.
+``
+
+###  15.Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'. Count how many items fall into each category
+	
 ```sql
 SELECT 
 	category,
@@ -195,5 +197,3 @@ SELECT
 	GROUP BY 1,2
 	ORDER BY 2;
 ```
-	
-
