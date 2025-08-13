@@ -14,4 +14,4 @@ A relational dataset containing movie and TV show metadata (title, director, cas
 
 - Categorize content based on description sentiment (e.g., presence of violence-related keywords).
 ## Dataset 
-- Dataset link (https://github.com/arsh-sandhu-1/netflix_sql_project/blob/main/netflix_dataset.csv)
+- Dataset link [Netflix Dataset](https://github.com/arsh-sandhu-1/netflix_sql_project/blob/main/netflix_dataset.csv)
