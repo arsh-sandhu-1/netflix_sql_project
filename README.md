@@ -16,7 +16,7 @@ A relational dataset containing movie and TV show metadata (title, director, cas
 ## Dataset 
 - Dataset link [Netflix Dataset](https://github.com/arsh-sandhu-1/netflix_sql_project/blob/main/netflix_dataset.csv)
 ## Schema 
-'''sql
+```sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
@@ -35,4 +35,4 @@ CREATE TABLE netflix
 );
 
 SELECT * FROM netflix ;
-'''
+```
