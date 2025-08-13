@@ -202,23 +202,23 @@ SELECT
 
 1. Ratings: Certain ratings dominate each format (e.g., TV-MA for shows, TV-14 for movies).
 
-Regional Leaders: The USA and India are among the top contributors to Netflix’s library.
+1. Regional Leaders: The USA and India are among the top contributors to Netflix’s library.
 
-Longest Movie: The dataset includes unusually long films, indicating diversity in production style.
+1. Longest Movie: The dataset includes unusually long films, indicating diversity in production style.
 
-Recent Additions: A significant volume of content has been added in the last 5 years, showing Netflix’s aggressive expansion.
+1. Recent Additions: A significant volume of content has been added in the last 5 years, showing Netflix’s aggressive expansion.
 
-Director Insights: Rajiv Chilaka emerges as a notable figure in specific genres.
+1. Director Insights: Rajiv Chilaka emerges as a notable figure in specific genres.
 
-Series Trends: Several TV shows run beyond 5 seasons, appealing to long-term audiences.
+1. Series Trends: Several TV shows run beyond 5 seasons, appealing to long-term audiences.
 
-Actor Spotlight: Frequent appearances by top Indian actors highlight regional influence.
+1. Actor Spotlight: Frequent appearances by top Indian actors highlight regional influence.
 
-Genre Spread: Documentaries and drama dominate certain niches.
+1. Genre Spread: Documentaries and drama dominate certain niches.
 
-Content Classification: Titles with violence-related keywords form a small but significant portion of the catalog.
+1. Content Classification: Titles with violence-related keywords form a small but significant portion of the catalog.
 
-📈 Conclusion
+## 📈 Conclusion
 Through SQL-driven analysis, we can clearly see how Netflix curates a diverse library, balancing global appeal with targeted regional hits.
 The insights help understand content strategy, audience targeting, and the evolving mix of entertainment formats.
 This approach can be scaled to monitor trends, identify growth opportunities, and support data-driven decision-making in the OTT space.
